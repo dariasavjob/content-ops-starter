@@ -63,7 +63,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Our parties
       color: text-dark
       styles:
         self:
