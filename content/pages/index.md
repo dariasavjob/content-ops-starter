@@ -15,7 +15,7 @@ sections:
       - url: /images/3.jpg
         altText: Hanukkah Teepee Party
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/4.jpeg
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
