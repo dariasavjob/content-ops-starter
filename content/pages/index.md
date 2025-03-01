@@ -10,7 +10,7 @@ sections:
         altText: Shabby chic Teepee Party
         type: ImageBlock
       - url: /images/2.jpg
-        altText: Wellster logo
+        altText: PlayStation Teepee Party
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
