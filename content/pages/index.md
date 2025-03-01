@@ -24,7 +24,7 @@ sections:
       - url: /images/6.jpeg
         altText: New year's sleepover Teepee Party
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/7.webp
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
