@@ -13,7 +13,7 @@ sections:
         altText: PlayStation Teepee Party
         type: ImageBlock
       - url: /images/3.jpg
-        altText: Vise logo
+        altText: Hanukkah Teepee Party
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
