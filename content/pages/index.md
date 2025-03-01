@@ -6,7 +6,7 @@ sections:
       Royal Teepee Party is an Entrepreneur which deliver, stage and style
       Teepee party for kids
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/1.jpeg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
