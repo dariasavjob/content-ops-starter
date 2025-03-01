@@ -37,6 +37,9 @@ sections:
       type: TitleBlock
       text: This Is A Big Headline
       color: text-dark
+      styles:
+        self:
+          textAlign: right
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
