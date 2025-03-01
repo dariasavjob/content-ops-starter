@@ -16,7 +16,7 @@ sections:
         altText: Hanukkah Teepee Party
         type: ImageBlock
       - url: /images/4.jpeg
-        altText: Telus logo
+        altText: PlayStation Teepee Party
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
