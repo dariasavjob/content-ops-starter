@@ -2,7 +2,9 @@
 title: Home
 slug: /
 sections:
-  - subtitle: Award winning enterprises trust us
+  - subtitle: >-
+      Royal Teepee Party is an Entrepreneur which deliver, stage and style
+      Teepee party for kids
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
