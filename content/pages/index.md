@@ -9,7 +9,7 @@ sections:
       - url: /images/1.jpeg
         altText: Shabby chic Teepee Party
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/2.jpg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
