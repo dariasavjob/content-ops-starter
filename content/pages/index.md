@@ -19,7 +19,7 @@ sections:
         altText: PlayStation Teepee Party
         type: ImageBlock
       - url: /images/5.jpeg
-        altText: Contentful logo
+        altText: Frozen Teepee Party
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
