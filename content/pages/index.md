@@ -39,7 +39,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: right
+          textAlign: center
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
