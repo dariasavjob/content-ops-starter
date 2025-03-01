@@ -21,7 +21,7 @@ sections:
       - url: /images/5.jpeg
         altText: Frozen Teepee Party
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/6.jpeg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
