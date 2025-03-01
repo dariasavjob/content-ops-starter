@@ -25,7 +25,7 @@ sections:
         altText: New year's sleepover Teepee Party
         type: ImageBlock
       - url: /images/7.webp
-        altText: Rangle logo
+        altText: Shabby chic Teepee Party
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
