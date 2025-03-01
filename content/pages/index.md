@@ -18,7 +18,7 @@ sections:
       - url: /images/4.jpeg
         altText: PlayStation Teepee Party
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/5.jpeg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
