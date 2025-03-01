@@ -7,7 +7,7 @@ sections:
       Teepee party for kids
     images:
       - url: /images/1.jpeg
-        altText: Empathy logo
+        altText: Shabby chic Teepee Party
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
