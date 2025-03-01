@@ -22,7 +22,7 @@ sections:
         altText: Frozen Teepee Party
         type: ImageBlock
       - url: /images/6.jpeg
-        altText: Sanity logo
+        altText: New year's sleepover Teepee Party
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
