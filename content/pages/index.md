@@ -12,7 +12,7 @@ sections:
       - url: /images/2.jpg
         altText: PlayStation Teepee Party
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/3.jpg
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
