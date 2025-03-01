@@ -35,7 +35,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Luxury Teepee Party for kids
       color: text-dark
       styles:
         self:
