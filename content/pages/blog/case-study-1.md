@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/5.jpeg
+  url: /images/6.jpeg
   altText: Frozen Party
   styles:
     self:
