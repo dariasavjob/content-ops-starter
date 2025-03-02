@@ -1,5 +1,5 @@
 ---
-title: Frozen Party
+title: New year's sleepover Party
 slug: case-study-1
 date: ''
 excerpt: >-
