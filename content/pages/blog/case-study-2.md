@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/2.jpg
-  altText: Case study 2
+  altText: Hanukkah Party
   styles:
     self:
       borderRadius: x-large
